@@ -1,0 +1,34 @@
+######### HEAD AND TAIL ASSIGNER LOGGER #################### DEFINE MONOMERS FOR ANALYSIS #############
+
+Algorithm is searching for reactants...
+  name  ...                                 monomers
+0  PET  ...  [CCCCOCCOC(=O)C1=CC=CC=C1C(=O)OCCOCCCC]
+1   PU  ...                           [CC1CNC(CN1)C]
+2  PBS  ...                       [C(CC(=O)O)C(=O)O]
+3  PCL  ...                      [CCOC(=O)CC(=O)OCC]
+
+[4 rows x 3 columns]
+
+########## GENERATING GAMESS INPUT #############
+
+
+WARNING: File polymer_1 will be overwritten
+
+WARNING: File polymer_2 will be overwritten
+
+WARNING: File polymer_3 will be overwritten
+
+WARNING: File polymer_4 will be overwritten
+
+########## RUNNING GAMESS #############
+
+########## EXTRACTION OF MULLIKEN ATOMIC OVERLAP POPULATIONS #############
+Analyzing polymer_4_monomer0.log...
+WARNING: polymer_4_monomer0 could not be generated.
+Analyzing polymer_2_monomer0.log...
+WARNING: polymer_2_monomer0 could not be generated.
+Analyzing polymer_3_monomer0.log...
+WARNING: polymer_3_monomer0 could not be generated.
+Analyzing polymer_1_monomer0.log...
+WARNING: polymer_1_monomer0 could not be generated.
+########## EXTRACTION OF THE RX VALUE #############
